@@ -32,4 +32,4 @@ highNum = 9
 mult = 3
 for x in range(lowNum - 1, highNum + 1, 1):
     if(x % mult == 0):
-print(x)
+        print(x)
