@@ -4,8 +4,8 @@ for i in range(11):
     listOfNames.append(user_name)
 
 if(user_name) == "Preston":
-    print('Hey my name is Preston too!')
-if:
+    print('Hey that\'s my name too!')
+else:
     print('It was nice to meet all of you!')
 
 
