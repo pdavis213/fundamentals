@@ -60,7 +60,7 @@ print(valueGreaterThanSecond([5, 2, 3, 2, 1, 4]))
 
 def lengthAndValue(size, value):
     newList = []
-    for x in range(size):
+    for i in range(size):
         newList.append(value)
     return newList
 
