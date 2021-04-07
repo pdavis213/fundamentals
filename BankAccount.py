@@ -14,7 +14,6 @@ class BankAccount:
 
     def display_account_info(self):
         print(f"Balance: {self.account_balance}")
-        return self
 
     def yield_intrest(self):
         self.account_balance += self.intrestRate * self.account_balance
